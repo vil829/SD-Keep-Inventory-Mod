@@ -1,0 +1,29 @@
+# Build output
+bin/
+obj/
+
+# Compiled assemblies
+*.dll
+
+# Debug symbols
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet
+packages/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
